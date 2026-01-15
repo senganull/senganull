@@ -27,11 +27,12 @@
 
 ---
 
-### 技術スタック（動的 & 静的）
+### 技術スタック
 
-**▼ 使用言語 (自動分析)**
-<br>
-上記のグラフにて、リポジトリ内のコード量から自動的に計算されています。
+**▼ 使用言語 (自動取得)**
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senganull&layout=compact&theme=radical&langs_count=6&hide_border=true&hide=html,css" alt="Top Languages" />
+</div>
 
 **▼ 開発ツール・プラットフォーム**
 <div align="left">
