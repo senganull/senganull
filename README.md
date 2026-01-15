@@ -5,21 +5,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=senganull&header=false&fg=2c2c2c&bg=f0f0f0&theme=radical" alt="3D Contribution Graph" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=senganull&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senganull&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senganull&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" height="170" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="170" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" height="170" />
 </div>
 
 ---
@@ -33,24 +27,16 @@
 
 ---
 
-### 技術スタック
+### 技術スタック（動的 & 静的）
 
-#### プログラミング言語
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </div>
+**▼ 使用言語 (自動分析)**
+<br>
+上記のグラフにて、リポジトリ内のコード量から自動的に計算されています。
 
-#### 開発ツール・環境
+**▼ 開発ツール・プラットフォーム**
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-#### プラットフォーム
-<div align="left">
   <img src="https://img.shields.io/badge/Minecraft-000000?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/FiveM-F6831F?style=for-the-badge&logo=rockstargames&logoColor=white" />
 </div>
