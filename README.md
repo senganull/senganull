@@ -21,7 +21,7 @@
     <td width="50%" valign="top" style="border: none;">
       <h3 align="center">🛠️ Languages & Tools</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/senganull/senganull/main/metrics.languages.svg" width="100%" />
+        <img src="https://raw.githubusercontent.com/senganull/senganull/main/metrics.languages.svg" width="100%" alt="My Languages" />
       </div>
       <br/>
       <div align="left">
