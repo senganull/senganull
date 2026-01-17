@@ -15,9 +15,15 @@
 ###  Tech Stack & Tools
 
 <div align="center">
-  <b>Server & Infrastructure</b><br>
+  <b>Development Tools & Environment</b><br>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-1C8045?style=for-the-badge&logo=heidisql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinSCP-123961?style=for-the-badge&logo=winscp&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   
   <br/><br/>
   
