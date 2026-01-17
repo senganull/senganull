@@ -10,18 +10,9 @@
 
 <br/>
 
-### 👨‍💻 自己紹介
-
-> **"Automation is the key to efficiency."**
-
-- 🔭 **Current Focus**: Minecraft経済サーバー & FiveMスクリプト開発
-- 🌱 **Learning**: Java, PHP, Web Application Development
-- 🎯 **Goal**: 同時接続100人規模のサーバーを構築・運営すること
-- ⚡ **Interests**: サーバー管理タスクの自動化、バックエンドロジックの最適化
-
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
   <b>Server & Infrastructure</b><br>
