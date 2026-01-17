@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/senganull/senganull/main/profile-summary-card-output/radical/0-profile-details.svg" width="95%" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="95%" />
 </div>
 
 <br/>
@@ -13,15 +13,15 @@
     <td width="50%" valign="top" style="border: none;">
       <h3 align="center">📊 GitHub Stats</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/senganull/senganull/main/profile-summary-card-output/radical/3-stats.svg" width="100%" />
+        <img src="./profile-summary-card-output/radical/3-stats.svg" width="100%" />
         <br/><br/>
-        <img src="https://raw.githubusercontent.com/senganull/senganull/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="100%" />
+        <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="100%" />
       </div>
     </td>
     <td width="50%" valign="top" style="border: none;">
       <h3 align="center">🛠️ Languages & Tools</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/senganull/senganull/main/metrics.languages.svg" width="100%" alt="Now Generating... (Check Actions)" />
+        <img src="./metrics.languages.svg" width="100%" alt="My Languages" />
       </div>
       <br/>
       <div align="left">
