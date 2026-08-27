@@ -5,12 +5,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="./my-metrics.svg" width="100%" alt="GitHub Metrics" />
-</div>
-
-<br/>
-
 ---
 
 ###  Tech Stack & Tools
